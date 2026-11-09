@@ -119,3 +119,14 @@ This program is free software and distributed under the [MIT license](https://gi
 * [Fresh GeoIP databases](https://tpo.pages.torproject.net/network-health/metrics/geoip-data/)
 * [Current version of Tor Expert Bundle](https://www.torproject.org/download/tor/)
 <p align="right">[<a href="#readme-top">↑ Up</a>]</p>
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
